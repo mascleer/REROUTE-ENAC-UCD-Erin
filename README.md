@@ -1,5 +1,5 @@
 # RE-ROUTE Dublin Traffic Congestion Demonstrator
-
+<img width="585" height="337" alt="re-route-logo" src="https://github.com/user-attachments/assets/4aa8a90b-460f-46be-8ccb-05f1996faf1c" />
 A one-month student project using public Dublin traffic data to develop a lightweight, explainable congestion-detection and local rerouting demonstrator.
 
 ## Project information
