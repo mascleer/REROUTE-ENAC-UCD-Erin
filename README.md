@@ -237,11 +237,10 @@ git --version
 ### 8.3 Clone the repository
 
 ```bash
-git clone https://github.com/ORGANISATION/reroute-dublin-traffic.git
-cd reroute-dublin-traffic
+git clone https://github.com/nimaafraz/REROUTE-ENAC-UCD-Erin
+cd REROUTE-ENAC-UCD-Erin
 ```
 
-Replace `ORGANISATION` with the GitHub organisation or account hosting the project.
 
 ### 8.4 Create a virtual environment
 
