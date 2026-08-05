@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and generated data
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# Generated outputs
+outputs/figures/*
+outputs/maps/*
+outputs/tables/*
+!outputs/figures/.gitkeep
+!outputs/maps/.gitkeep
+!outputs/tables/.gitkeep
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/

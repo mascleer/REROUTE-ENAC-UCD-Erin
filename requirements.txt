@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+jupyter
+scipy
+scikit-learn
+geopandas
+folium
+streamlit
+pyyaml
+pytest
